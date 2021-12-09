@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cam/.dotnet/store/|arch|/|tfm|",
+      "/home/cam/.nuget/packages"
+    ]
+  }
+}

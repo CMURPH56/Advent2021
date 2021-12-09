@@ -1,0 +1,16 @@
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode.deps.json
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode.runtimeconfig.json
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode.runtimeconfig.dev.json
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode.dll
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/ref/adventofcode.dll
+/home/cam/Projects/adventofcode/bin/Debug/net5.0/adventofcode.pdb
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.csproj.AssemblyReference.cache
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.GeneratedMSBuildEditorConfig.editorconfig
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.AssemblyInfoInputs.cache
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.AssemblyInfo.cs
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.csproj.CoreCompileInputs.cache
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.dll
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/ref/adventofcode.dll
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.pdb
+/home/cam/Projects/adventofcode/obj/Debug/net5.0/adventofcode.genruntimeconfig.cache
