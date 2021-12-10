@@ -1,6 +1,6 @@
 public class DayTwo {
 
-        private static int DayTwoPartTwo(){
+        public int DayTwoPartTwo(){
             int horizontalPosition = 0;
             int depth = 0;
             int aim = 0;
@@ -23,7 +23,7 @@ public class DayTwo {
              }
             return horizontalPosition * depth;
         }
-        private static int DayTwoPartOne(){
+        public int DayTwoPartOne(){
             int horizontalPosition = 0;
             int depth = 0;
             string[] lines = System.IO.File.ReadAllLines(@"/home/cam/Projects/adventofcode/inputdaytwo.txt");

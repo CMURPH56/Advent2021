@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 public class DayThree {
 
-          private static int DayThreePartTwo(){
+          public int DayThreePartTwo(){
 
             string[] linesArray = System.IO.File.ReadAllLines(@"/home/cam/Projects/adventofcode/inputdaythree.txt");
             List<string> lines = linesArray.ToList();
@@ -51,7 +51,7 @@ public class DayThree {
         }
 
 
-        private static int DayThreePartOne(){
+        public int DayThreePartOne(){
             string[] lines = System.IO.File.ReadAllLines(@"/home/cam/Projects/adventofcode/inputdaythree.txt");
             
             Dictionary<string, int> answer = new Dictionary<string, int>();

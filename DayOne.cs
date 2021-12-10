@@ -1,5 +1,5 @@
     public class DayOne {
-    private static int DayOnePartTwo()
+    public int DayOnePartTwo()
         {
             int answer = 0; // accounting for the first one
             string[] lines = System.IO.File.ReadAllLines(@"/home/cam/Projects/adventofcode/inputdayone.txt");
@@ -20,7 +20,7 @@
             }
             return answer;
         }
-        private static int DayOnePartOne()
+        public int DayOnePartOne()
         {
             string[] lines = System.IO.File.ReadAllLines(@"/home/cam/Projects/adventofcode/inputdayone.txt");
             int answer = 0;
