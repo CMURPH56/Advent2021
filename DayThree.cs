@@ -73,7 +73,7 @@ public class DayThree {
 
             foreach (KeyValuePair<string, int> kvp in answer)
             {
-                if(kvp.Value < 500){
+                if(kvp.Value < halfway){
                     gammaStringBuilder.Append("0");
                     episilonStringBuilder.Append("1");
                 }
